@@ -1,0 +1,32 @@
+aid: imsea
+name: Imsea
+description: "Free image search"
+url: https://imsea.herokuapp.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Photography"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Photography
+  - Public APIs
+apis:
+  - name: Imsea
+    description: "Free image search"
+    humanURL: https://imsea.herokuapp.com/
+    baseURL: https://imsea.herokuapp.com/
+    tags:
+      - Photography
+    properties:
+      - type: Documentation
+        url: https://imsea.herokuapp.com/
+common:
+  - type: Website
+    url: https://imsea.herokuapp.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
