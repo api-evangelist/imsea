@@ -39,7 +39,6 @@ apis:
   - name: Imsea
     description: "Free image search"
     humanURL: https://imsea.herokuapp.com/
-    baseURL: https://imsea.herokuapp.com/
     tags:
       - Photography
     properties:
